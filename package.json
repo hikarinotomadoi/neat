@@ -33,10 +33,6 @@
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "dependencies": {
-    "bourbon": "^4.2",
-    "node-sass": "^3.4"
-  },
   "devDependencies": {
     "gulp": "^3.9",
     "gulp-autoprefixer": "^3.1",
